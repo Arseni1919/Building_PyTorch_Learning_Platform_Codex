@@ -1,4 +1,4 @@
-# PyTorch Mastery Course
+# PyTorch Mastery Course (by Codex of OpenAI)
 
 Become fluent in PyTorch through a structured, hands-on journey that moves from foundational concepts to state-of-the-art deep learning techniques. The course follows a top-down, project-friendly approach so you always see the big picture before diving into details.
 
