@@ -53,7 +53,7 @@ Become fluent in PyTorch through a structured, hands-on journey that moves from 
 
 Experiment boldly, document your learnings, and revisit earlier notebooks to reinforce concepts as you progress. Happy building!
 
-> ### Created by Claude Code
+> ### Created by Codex
 > 
 > #### Prompt:
 
